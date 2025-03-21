@@ -7,4 +7,7 @@ Custom scenario files for every map in MCC.
 - ONI: 
 - NF: 
 - TOTS: 
-- LNOS: 
+- LNOS:
+
+## Compiling
+run `tool build-cache-file "levels\solo\[mission name]\[.scenario filename]" pc` in the mod tools root to compile your map
