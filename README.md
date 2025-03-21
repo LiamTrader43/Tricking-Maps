@@ -1,2 +1,10 @@
 # Tricking-Maps
-Scenario Files for all maps in MCC that have all bsps loaded and barriers removed
+Custom scenario files for every map in MCC.
+
+## Changelog
+### Reach
+WC - 
+ONI - 
+NF - 
+TOTS - 
+LNOS - 
